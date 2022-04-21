@@ -1,0 +1,381 @@
+
+.Box-KTMuZik {
+    padding: 15px;
+    height: 150px;
+    margin: 0;
+    margin-bottom: 100px;
+}
+.Title {
+    padding: 15px;
+    height: 60px;
+    margin: 0;
+    background-color: white;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'whitneybold';
+    font-size: 50px;
+}
+.Description {
+    padding: 10px;
+    height: 28px;
+    margin: 0;
+    margin-bottom: 15px;
+    background-color: white;
+    text-align: center;
+    font-family: 'whitneybold';
+    font-size: 20px;
+}
+.KTMuZik {
+    padding: 15px;
+    height: 55px;
+    margin: 0;
+    margin-bottom: 10px;
+    margin-left: 15px;
+    background-color: white;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'whitneybold';
+    font-size: 50px;
+}
+.KTMuZik-Description {
+    height: 80px;
+    width: 40%;
+    margin: 0;
+    margin-top: 37px;
+    margin-left: 17px;
+    position: absolute;
+    left: 40px;
+    top: 350px;
+    background-color: none;
+    text-align: left;
+    vertical-align: left;
+    font-family: 'whitneybold';
+    font-size: 20px;
+}
+.KTMuZik-Picture {
+    padding: 15px;
+    height: 250px;
+    margin: 0;
+    margin-left: 530px;
+    position: absolute;
+    top: 250px;
+    right: 5px;
+}
+
+.KTMuZik-Logo-Picture {
+    padding: 15px;
+    height: 150px;
+    margin: 0;
+    margin-left: 530px;
+    margin-bottom: 20px;
+    position: absolute;
+    top: 300px;
+    right: 45px;
+}
+.Box-KTMuZik-plus {
+    padding: 15px;
+    height: 150px;
+    margin: 0;
+    margin-bottom: 100px;
+}
+.Title2 {
+    padding: 15px;
+    height: 60px;
+    margin: 0;
+    background-color: white;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'whitneybold';
+    font-size: 50px;
+}
+.Description2 {
+    padding: 10px;
+    height: 28px;
+    margin: 0;
+    margin-bottom: 15px;
+    background-color: white;
+    text-align: center;
+    font-family: 'whitneybold';
+    font-size: 20px;
+}
+.KTMuZik-plus {
+    padding: 15px;
+    height: 55px;
+    margin: 0;
+    margin-bottom: 10px;
+    margin-left: 15px;
+    background-color: white;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'whitneybold';
+    font-size: 50px;
+}
+.KTMuZik-plus-Description {
+    height: 80px;
+    width: 40%;
+    margin: 0;
+    margin-top: 37px;
+    margin-left: 17px;
+    position: absolute;
+    left: 40px;
+    top: 635px;
+    background-color: none;
+    text-align: left;
+    vertical-align: left;
+    font-family: 'whitneybold';
+    font-size: 20px;
+}
+.KTMuZik-plus-Picture {
+    padding: 15px;
+    height: 250px;
+    margin: 0;
+    margin-left: 530px;
+    position: absolute;
+    top: 550px;
+    right: 5px;
+}
+
+.KTMuZik-plus-Logo-Picture {
+    padding: 15px;
+    height: 150px;
+    margin: 0;
+    margin-left: 530px;
+    margin-bottom: 20px;
+    position: absolute;
+    top: 600px;
+    right: 45px;
+}
+.Box-chillmusic {
+    padding: 15px;
+    height: 150px;
+    margin: 0;
+    margin-bottom: 100px;
+}
+.Title3 {
+    padding: 15px;
+    height: 60px;
+    margin: 0;
+    background-color: white;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'whitneybold';
+    font-size: 50px;
+}
+.Description3 {
+    padding: 10px;
+    height: 28px;
+    margin: 0;
+    margin-bottom: 15px;
+    background-color: white;
+    text-align: center;
+    font-family: 'whitneybold';
+    font-size: 20px;
+}
+.chillmusic {
+    padding: 15px;
+    height: 55px;
+    margin: 0;
+    margin-bottom: 10px;
+    margin-left: 15px;
+    background-color: white;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'whitneybold';
+    font-size: 50px;
+}
+.chillmusic-Description {
+    height: 80px;
+    width: 40%;
+    margin: 0;
+    margin-top: 37px;
+    margin-left: 17px;
+    position: absolute;
+    left: 40px;
+    top: 910px;
+    background-color: none;
+    text-align: left;
+    vertical-align: left;
+    font-family: 'whitneybold';
+    font-size: 20px;
+}
+.chillmusic-Picture {
+    padding: 15px;
+    height: 250px;
+    margin: 0;
+    margin-left: 530px;
+    position: absolute;
+    top: 850px;
+    right: 5px;
+}
+
+.chillmusic-Logo-Picture {
+    padding: 15px;
+    height: 150px;
+    margin: 0;
+    margin-left: 530px;
+    margin-bottom: 20px;
+    position: absolute;
+    top: 900px;
+    right: 45px;
+}
+.Box-KTFilm {
+    padding: 15px;
+    height: 150px;
+    margin: 0;
+    margin-bottom: 125px;
+}
+.Title4 {
+    padding: 15px;
+    height: 60px;
+    margin: 0;
+    background-color: white;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'whitneybold';
+    font-size: 50px;
+}
+.Description4 {
+    padding: 10px;
+    height: 28px;
+    margin: 0;
+    margin-bottom: 15px;
+    background-color: white;
+    text-align: center;
+    font-family: 'whitneybold';
+    font-size: 20px;
+}
+.KTFilm {
+    padding: 15px;
+    height: 55px;
+    margin: 0;
+    margin-bottom: 10px;
+    margin-left: 15px;
+    background-color: white;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'whitneybold';
+    font-size: 50px;
+}
+.KTFilm-Description {
+    height: 80px;
+    width: 40%;
+    margin: 0;
+    margin-top: 37px;
+    margin-left: 17px;
+    position: absolute;
+    left: 38px;
+    top: 1180px;
+    background-color: none;
+    text-align: left;
+    vertical-align: left;
+    font-family: 'whitneybold';
+    font-size: 20px;
+}
+.KTFilm-Picture {
+    padding: 15px;
+    height: 250px;
+    margin: 0;
+    margin-left: 530px;
+    position: absolute;
+    top: 1150px;
+    right: 5px;
+}
+
+.KTFilm-Logo-Picture {
+    padding: 15px;
+    height: 150px;
+    margin: 0;
+    margin-left: 530px;
+    margin-bottom: 20px;
+    position: absolute;
+    top: 1200px;
+    right: 45px;
+}
+
+#PageMobileSuitable{display: none;}
+#CannotDisplayPage{display: none;}
+
+@media screen and (max-width: 988px){
+
+    #PageDesktopSuitable{display: none;}
+    #PageMobileSuitable{display: contents;}
+    #CannotDisplayPage{display: none;}
+
+    .Selection{
+        display: none;
+    }
+
+    .Selection2{
+        display: none;
+    }
+
+    .Selection3{
+        display: none;
+    }
+
+    .Selection4{
+        display: none;
+    }
+
+    .Selection5{
+        display: none;
+    }
+
+    .Title {
+        font-size: 1.2cm;
+        height: 5%;
+    }
+
+    .Description{
+        font-size: 15px;
+        margin: 0;
+        padding: 0;
+        padding-bottom: 5%;
+    }
+
+    .KTMuZik-Picture{display: none;}
+    .KTMuZik-plus-Picture{display: none;}
+    .chillmusic-Picture{display: none;}
+    .KTFilm-Picture{display: none;}
+
+    .Box-KTMuZik{
+        background-color: rgb(96, 255, 194);
+        background: linear-gradient(white,rgb(96, 255, 194),white);
+    }
+
+    .Box-KTMuZik-plus{
+        background-color: #8886ff;
+        background: linear-gradient(white,#8886ff,white);
+    }
+
+    .Box-chillmusic{
+        background-color: rgb(253, 255, 138);
+        background: linear-gradient(white,rgb(253, 255, 138),white);
+    }
+
+    .Box-KTFilm{
+        background-color: rgb(255, 138, 138);
+        background: linear-gradient(white,rgb(255, 138, 138),white);
+    }
+
+    .KTMuZik,.KTMuZik-plus,.chillmusic,.KTFilm{
+        background-color: transparent;
+    }
+
+    #PageMobileSuitable{
+        font-family: Whitney;
+    }
+}
+
+@media screen and (max-width: 524px){
+    .Title{
+        font-size: 0.85cm;
+        height: 5%;
+    }
+    .Description{
+        font-size: 15px;
+        margin: 0;
+        padding: 0;
+        padding-bottom: 15%;
+    }
+}

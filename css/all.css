@@ -1,0 +1,419 @@
+@font-face {
+    font-family: "Whitney Bold";
+    src: url('/fonts/whitneybold-webfont.woff2') format('woff2'),
+         url('/fonts/whitneybold-webfont.woff') format('woff');
+}
+
+@font-face {
+    font-family: "Whitney";
+    src: url('/fonts/whitney_medium-webfont.woff') format('woff'),
+         url('/fonts/whitney_medium-webfont.woff2') format('woff2');
+}
+
+p{
+    font-family: Whitney, Whitney Bold;
+    margin: 0;
+    background-color: transparent;
+}
+
+.responsive {
+    display: none;
+}
+
+.Header {
+    padding: 10px;
+    height: 100px;
+    margin: 0;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'whitneybold';
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+ktselection {
+    align-items: center;
+    margin: 30px;
+    text-align: center;
+}
+ktselection2 {
+    align-items: center;
+    margin: 30px;
+    width: 73.5px;
+    text-align: center;
+}
+.BoxPicture {
+    height: 100px;
+    margin: 0;
+    display: flex;
+    margin-right: 70px;
+}
+.Picture2 {
+    padding: 30px;
+    height: 35px;
+}
+.Picture3 {
+    padding: 27px;
+    height: 40px;
+}
+.Selection {
+    color: white;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: black;
+    font-family: 'whitneybold';
+}
+.Selection2 {
+    color: white;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: black;
+    font-family: 'whitneybold';
+}
+.Selection3 {
+    color: white;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: black;
+    font-family: 'whitneybold';
+}
+.Selection4 {
+    color: white;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: black;
+    font-family: 'whitneybold';
+}
+.Selection5 {
+    color: white;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: black;
+    font-family: 'whitneybold';
+}
+
+#PageMobileSuitable{display: none;}
+#CannotDisplayPage{display: none;}
+.Footer {
+    padding: 10px;
+    height: 200px;
+    margin: 0;
+    background-color: black;
+    color: white;
+    font-family: 'whitneybold';
+    display: flex;
+}
+
+.FooterKTWebsite{
+    margin: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.FooterKTWebsite2{
+    margin: 15px;
+    margin-right: 3%;
+    width: 100%;
+}
+
+.KTWebsiteIMGFooter {
+    height: 150px;
+    margin: 0;
+}
+.KTWebsiteTextFooter {
+    font-family: 'whitneybold';
+    font-weight: bold;
+    font-size: 17px;
+    text-align: left;
+}
+
+#otherbox {
+    font-family: 'whitneybold', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+    border: 1px grey solid;
+    padding: 5px;
+    width: 270px;
+    position: fixed;
+    top: 70px;
+    right: 170px;
+    text-align: center;
+    color: black;
+    float: left;
+    animation-name: FadeIn;
+    animation-duration: 0.15s;
+    transition-timing-function: ease-in;
+}
+
+@keyframes FadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+  @-moz-keyframes FadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+  @-webkit-keyframes FadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+  @-o-keyframes FadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+  @-ms-keyframes FadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+
+#other {
+    cursor: pointer;
+}
+
+#searchbox{
+    display: flex;
+    justify-content: left;
+    margin-bottom: 10px;
+}
+
+#selectionBox {
+    padding: 0;
+    margin: 0;
+    margin-bottom: 13px;
+    text-align: left;
+}
+
+.text {
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.text2 {
+    color: red;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+input[type=text] {
+    font-family: 'whitneybold';
+    float: left;
+    border-radius: 3px;
+    border: 2px black solid;
+    background-color: white;
+    color: black;
+    padding: 5px 7px;
+    font-weight: bold;
+}
+
+#submit {
+    font-family: 'whitneybold';
+    float: left;
+    border-radius: 3px;
+    border: 2px black solid;
+    background-color: black;
+    color: white;
+    padding: 5px 7px;
+    margin-left: 5px;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+}
+
+#submit:hover {
+    color: grey
+}
+
+#support {
+    cursor: pointer;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: black;
+    border-radius: 10px;
+}
+
+.partner-apps {
+    text-align: center;
+    font-family: 'whitneybold';
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10%;
+}
+
+.partner-apps#description {
+    color: grey;
+    font-size: 15px;
+    margin-bottom: 5%;
+    text-decoration: none;
+}
+
+.FooterKTWebsite3 {
+    color: grey;
+    display: flex;
+    margin: 5%;
+    font-size: 13px;
+    width: auto;
+    flex: auto;
+    flex-wrap: wrap;
+}
+
+#FooterKTWebsite3Text{
+    margin-bottom: 0;
+    margin-top: 0;
+    margin-right: 15%;
+    display: flex;
+    text-decoration: none;
+}
+
+.FooterKTWebsite4 {
+    color: grey;
+    margin-top: 10%;
+    font-size: 13px;
+    width: auto;
+}
+
+#FooterKTWebsite4Text{
+    margin-bottom: 0;
+    margin-left: 5%;
+    margin-right: 0;
+    text-align: left;
+    display: flex;
+    text-decoration: none;
+}
+
+.a {
+    color: grey;
+    text-decoration: none;
+}
+
+.submitSearch {
+    cursor: pointer;
+}
+
+@media screen and (max-width: 988px){
+
+    .responsive {
+        display: block;
+    }
+
+    #PageDesktopSuitable{display: none;}
+    #PageMobileSuitable{display: block;}
+    #CannotDisplayPage{display: none;}
+    div#PageMobileSuitable > div.Footer{display: none;}
+
+    body {
+        background: none;
+        max-width: 988px;
+        font-family: Whitney;
+    }
+
+    .Header {
+        background-color: black;
+        display: flex;
+    }
+
+    .Selection,.Selection2,.Selection3,.Selection4,.Selection5{display: none;}
+}
+
+@media screen and (max-width: 832px) {
+
+    div#Desktop.Footer{display: none;}
+
+    div#PageMobileSuitable > div.Footer {
+        padding: 10px;
+        height: 100%;
+        margin: 0;
+        background-color: black;
+        color: white;
+        font-family: 'whitneybold';
+        display: block;
+    }
+
+    div#PageMobileSuitable > div.Footer > div.FooterKTWebsite{
+        margin: 10px;
+        margin-bottom: 7%;
+        display: block;
+        width: 100%;
+    }
+
+    div#PageMobileSuitable > div.Footer > div.FooterKTWebsite2 > div.partner-apps{
+        margin-bottom: 3%;
+    }
+
+    div#PageMobileSuitable > div.Footer > div.FooterKTWebsite2 > div.FooterKTWebsite3{
+        margin-left: 0;margin-bottom: 0;
+    }
+    div#PageMobileSuitable > div.Footer > div.FooterKTWebsite2 > div.FooterKTWebsite3 > div#FooterKTWebsite3Text{
+        margin-right: 10%;
+    }
+
+    div#PageMobileSuitable > div.Footer > div.FooterKTWebsite2 > div.FooterKTWebsite4{
+        margin-top: 3%;
+    }
+
+    div#PageMobileSuitable > div.Footer > div.FooterKTWebsite2 > div.FooterKTWebsite4 > p#FooterKTWebsite4Text{
+        margin-left: 0;margin-top: 0;
+    }
+
+    div#PageMobileSuitable > div.Footer > div.FooterKTWebsite > img.KTWebsiteIMGFooter{
+        height: 100px;
+    }
+
+    :root{
+        --text: left;
+    }
+    .partner-apps,.partner-apps#description{
+        text-align: var(--text);    
+    }
+}
+
+@media screen and (max-width: 359px){
+    #CannotDisplayPage{
+        font-family: 'Times New Roman', Times, serif;
+        display: contents;
+    }
+    #page{display: none;}
+}
